@@ -1,3 +1,7 @@
+> [!CAUTION]
+> **These plugins are no longer supported, Do not use them for any personal intentional needs.**
+
+
 # Velocity-server
 Host a velocity server...for free!
 
